@@ -1,5 +1,4 @@
 # Write your solution here
-# Write your solution here
 if Time.now.to_i.even?
   puts "Even!"
 else
